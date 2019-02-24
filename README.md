@@ -16,6 +16,8 @@ This is the Popular Movies App project.
 
 •	Adapter.
 
+•	Picasso.
+
 •	Grid Layout Manager.
 
 ## Description
@@ -44,7 +46,7 @@ must be included in all works derived from this project.
 
 Apache License
 
-Copyright 2018 Deepank Mehta. All rights reserved.
+Copyright 2019 Deepank Mehta. All rights reserved.
 Licensed under the Apache License, Version 2.0 (the “License”);
 You may not use this file; except in compliance with the License.
 You may obtain a copy of the License at 
